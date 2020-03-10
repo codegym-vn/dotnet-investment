@@ -1,0 +1,11 @@
+D:\CodeGym\Bai2\dotnet-investment\bin\Debug\netcoreapp3.1\dotnet-investment.exe
+D:\CodeGym\Bai2\dotnet-investment\bin\Debug\netcoreapp3.1\dotnet-investment.deps.json
+D:\CodeGym\Bai2\dotnet-investment\bin\Debug\netcoreapp3.1\dotnet-investment.runtimeconfig.json
+D:\CodeGym\Bai2\dotnet-investment\bin\Debug\netcoreapp3.1\dotnet-investment.runtimeconfig.dev.json
+D:\CodeGym\Bai2\dotnet-investment\bin\Debug\netcoreapp3.1\dotnet-investment.dll
+D:\CodeGym\Bai2\dotnet-investment\bin\Debug\netcoreapp3.1\dotnet-investment.pdb
+D:\CodeGym\Bai2\dotnet-investment\obj\Debug\netcoreapp3.1\dotnet-investment.csprojAssemblyReference.cache
+D:\CodeGym\Bai2\dotnet-investment\obj\Debug\netcoreapp3.1\dotnet-investment.AssemblyInfoInputs.cache
+D:\CodeGym\Bai2\dotnet-investment\obj\Debug\netcoreapp3.1\dotnet-investment.AssemblyInfo.cs
+D:\CodeGym\Bai2\dotnet-investment\obj\Debug\netcoreapp3.1\dotnet-investment.dll
+D:\CodeGym\Bai2\dotnet-investment\obj\Debug\netcoreapp3.1\dotnet-investment.pdb
